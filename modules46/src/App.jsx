@@ -5,7 +5,7 @@
 // import RecapTwo from "./Recap/RecapTwo";
 // import CustomHooksForm from "./components/CustomHooksForm/CustomHooksForm";
 // import CustomInputHookOne from "./components/Recap/CustomInputHookOne";
-// import CustomInputHookTwo from "./components/Recap/CustomInputHookTwo";
+ import CustomInputHookTwo from "./components/Recap/CustomInputHookTwo";
 // import ReusedForm from "./components/ReusedForm/ReusedForm";
 
 import Grandpa from "./components/grandph/Grandpa";
@@ -30,7 +30,7 @@ function App() {
         {/* <RefFrom/> */}
         {/* <CustomHooksForm/> */}
         {/* <CustomInputHookOne/> */}
-        {/* <CustomInputHookTwo/> */}
+        <CustomInputHookTwo/>
         {/* <ReusedForm handleFormData={handleFormDataOne}>
           <div> 
             <h2>Sign up</h2>
